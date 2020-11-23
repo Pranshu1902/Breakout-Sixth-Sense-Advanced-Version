@@ -1,6 +1,6 @@
 # Breakout-Sixth-Sense-Advanced-Version
 
-Welcome to the new version of Breakout or Welcome to the Future: Sixth sense technology
+Welcome to the Advanced version of Breakout or Welcome to the Future: Sixth sense technology
 
 Forget keyboard. Use your hand gestures to control your board
 
@@ -15,6 +15,8 @@ Note- Make sure that there is yellow color in your background. To help you bette
 Note- I have added a 2 second delay in the beginning so that you can adjust the window size as per you. Don't think that your PC is hanging with my game.
 
 NOTE- Currently I have set the speed of ball to 5 so that you are able to get used to this game. Once you feel like you have mastered it, increase the speed to 10
+
+As you play, the length of the board decreases so does the speed of the board
 
 I challenge you to win the game
 Enjoy
