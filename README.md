@@ -16,6 +16,8 @@ Note- I have added a 2 second delay in the beginning so that you can adjust the 
 
 NOTE- Currently I have set the speed of ball to 5 so that you are able to get used to this game. Once you feel like you have mastered it, increase the speed to 10
 
+Warning- The game will not start untill you kepp the yellow(default) color in front of the camera
+
 As you play, the length of the board decreases so does the speed of the board
 
 I challenge you to win the game
